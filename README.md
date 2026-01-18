@@ -1,6 +1,6 @@
 # API de justification de texte (Node.js / TypeScript)
 
-> Version "vibe coder" de mon projet tictactrip-test-technique, développée dans OpenCode avec GPT-5.1 Codex Max.
+> Version "vibe coder" de mon projet [tictactrip-test-technique](https://github.com/Ykherbache/tictactrip-test-technique), développée dans OpenCode avec GPT-5.1 Codex Max.
 
 ## Objectif
 Fournir une API REST publique qui justifie du texte à 80 caractères par ligne, avec authentification par jeton UUID et quota quotidien de 80 000 mots par jeton. Stockage du quota : mémoire en test/dev, Redis en production (survie aux crashs).
