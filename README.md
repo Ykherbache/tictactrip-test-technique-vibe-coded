@@ -1,3 +1,6 @@
+[![codecov](https://codecov.io/github/Ykherbache/tictactrip-test-technique-vibe-coded/graph/badge.svg?token=WTAFE1GCKM)](https://codecov.io/github/Ykherbache/tictactrip-test-technique-vibe-coded)
+[![CI](https://github.com/YKherbache/tictactrip-test-technique-vibe-coded/actions/workflows/ci.yml/badge.svg)](https://github.com/YKherbache/tictactrip-test-technique-vibe-coded/actions/workflows/ci.yml)
+![pnpm](https://img.shields.io/badge/pnpm-9.x-blue)
 # API de justification de texte (Node.js / TypeScript)
 
 > Version "vibe coder" de mon projet [tictactrip-test-technique](https://github.com/Ykherbache/tictactrip-test-technique), développée dans OpenCode avec GPT-5.1 Codex Max.
